@@ -1,2 +1,2 @@
 # github-demo
-Githu Desktop Demo
+Github Desktop Demo
